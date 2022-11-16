@@ -10,6 +10,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	justify-content: stretch;
+	margin: 0px;
 }
 
 .header {
